@@ -1,4 +1,3 @@
-
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h3 align="center">
@@ -8,28 +7,34 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20Engineer%20%7C%20Node.js%20%2B%20TypeScript%20%2B%20NestJS;Building%20scalable%20APIs%20with%20Express%20%26%20Prisma;Exploring%20Databases:%20Postgres%2C%20MongoDB%2C%20Redis;System%20Design%20%26%20Software%20Architecture;Always%20learning%20and%20sharing%20knowledge&font=Fira%20Code&center=true&width=650&height=45&color=f75c7e&vCenter=true&size=22">
+  </a>
 </p> 
 
-- 🏢 I'm a Software Engineer
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, NodeJS, or anything related to web development.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
+- 🏢 I'm a **Backend Engineer in progress**, focused on **Node.js, TypeScript, and NestJS**.  
+- 📚 As a **CS student & team leader**, I balance college, graduation project, and community activities.
+- 🚀 Improving my skills in **deployment, scalability, and performance optimization**.
+- 💬 Ask me about **API design & backend best practices**.
+- 🧩 Passionate about **System Design & Software Architecture** to build scalable and maintainable systems.
 
 
-## Connect with Me :
+## 📫 Let's Connect :
 
 <a href="https://www.linkedin.com/in/ahmed-said-523685269/" target="_blank">
-  <img src="https://img.shields.io/badge/-Ahmed%20Elkhoriby-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Connect_on-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
 </a>
+
 <a href="https://t.me/Ahmed_El_Khoriby" target="_blank">
-  <img src="https://img.shields.io/badge/-Ahmed%20Elkhoriby-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Message_on-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=229ED9" />
 </a>
+
 <a href="https://github.com/AhmedElkhoriby" target="_blank">
-  <img src="https://img.shields.io/badge/-Ahmed%20Elkhoriby-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/View_on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=333333" />
 </a>
+
 <a href="mailto:ahmedelkhoriby000@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Ahmed%20Elkhoriby-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email_me-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=E94B3C" />
 </a>
 
 ## 🛠 &nbsp;Tech Stack
@@ -80,7 +85,25 @@
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
+  <img width="12" />
+
 </div>
+
+## 📊 GitHub Stats
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AhmedElkhoriby&theme=radical&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy) 
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=AhmedElkhoriby&theme=radical)](https://git.io/streak-stats) ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedElkhoriby&show_icons=true&theme=radical) 
+
+
+
+![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhmedElkhoriby&theme=radical)
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AhmedElkhoriby&theme=radical)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AhmedElkhoriby&theme=radical)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AhmedElkhoriby&theme=radical&utcOffset=3)
+
+
 
 <img src="https://raw.githubusercontent.com/AhmedElkhoriby/AhmedElkhoriby/output/snake-dark.svg" alt="Snake animation" />
 
