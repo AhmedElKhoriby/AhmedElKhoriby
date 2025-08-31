@@ -82,5 +82,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
 </div>
 
-<img src="https://raw.githubusercontent.com/AhmedElkhoriby/AhmedElkhoriby/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/AhmedElkhoriby/AhmedElkhoriby/output/snake-dark.svg" alt="Snake animation" />
 
